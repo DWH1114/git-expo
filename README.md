@@ -1,7 +1,7 @@
-## git-expo
+### git-expo
 
 ## The New World
 
 ### The Brave New World
 
-*author*: sacred yogurt
+**author**: sacred yogurt
